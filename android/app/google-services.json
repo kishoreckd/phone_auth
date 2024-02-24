@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202897594591",
+    "project_id": "phoneauthflutter-f2351",
+    "storage_bucket": "phoneauthflutter-f2351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202897594591:android:eb37e1ba117c6a5141f16a",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf16kM25FaL0au62r7qHlQi5DDf4C0zL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
